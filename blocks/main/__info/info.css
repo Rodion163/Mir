@@ -1,0 +1,26 @@
+.main__info {
+    display: flex;
+    flex-wrap: wrap;
+    color: #ffffff;
+    width: 780px;
+    height: 210px;
+    margin: 26px 0 0 118px;
+}
+
+.content__info {
+    display: flex;
+    width: 344px;
+    height: 90px;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.content__info-icon {}
+
+.content__info-text {
+    margin: 15px 0 0 38px;
+    font-size: 22px;
+    line-height: 30px;
+    width: 206px;
+}

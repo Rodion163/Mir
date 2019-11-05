@@ -1,0 +1,18 @@
+.indicators__background-left {
+    position: absolute;
+    background-image: url('../../../images/background-left.svg');
+    width: 395px;
+    height: 394px;
+    background-repeat: no-repeat;
+    top: 47px;
+}
+
+.indicators__background-right {
+    position: absolute;
+    background-image: url('../../../images/background-right.svg');
+    width: 444px;
+    height: 924px;
+    background-repeat: no-repeat;
+    left: 1476px;
+    top: -173px;
+}

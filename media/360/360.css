@@ -1,0 +1,218 @@
+@media (min-width: 359px) and (max-width: 767px) {
+    .main {
+        height: auto;
+        background-position: top;
+    }
+    .header {
+        position: relative;
+        height: auto;
+        box-shadow: none;
+        background: none;
+        justify-content: space-between;
+    }
+    .header__logo {
+        margin: 23px 0 0 35px;
+        width: 110px;
+        height: 42px;
+    }
+    .header__logo-icon {
+        width: 42px;
+        height: 42px;
+        padding-right: 50px;
+        background-size: contain;
+    }
+    .header__logo-name {
+        font-size: 14px;
+        margin: 0;
+        width: auto;
+    }
+    .header__menu-button {
+        display: none;
+    }
+    .header__button {
+        position: absolute;
+        margin: 0;
+        bottom: -536px;
+        height: 35px;
+        flex-direction: row-reverse;
+        left: 50%;
+        margin-left: -180px;
+    }
+    .header__mir-logo {
+        width: 127px;
+        height: 39px;
+        margin: 23px 36px 0;
+    }
+    .main__header {
+        margin: 22px auto 0;
+        width: 287px;
+    }
+    .main__header-title {
+        font-size: 22px;
+        line-height: 27px;
+        height: 90px;
+    }
+    .main__header-subtitle {
+        font-size: 16px;
+        line-height: 22px;
+        margin-top: 10px;
+        height: 110px;
+    }
+    .main__info {
+        margin: 24px auto 0;
+        height: auto;
+        min-width: 360px;
+        left: 50%;
+    }
+    .content__info {
+        height: auto;
+        margin-top: 14px;
+    }
+    .content__info-icon {
+        width: 43px;
+        height: 43px;
+    }
+    .content__info-text {
+        font-size: 14px;
+        line-height: 19px;
+        margin: 0 0 0 36px;
+        width: 182px;
+    }
+    .main__slider {
+        margin: 52px auto 0;
+        width: 360px;
+    }
+    .slider-content_back {
+        width: 281px;
+        height: 384px;
+        margin-right: -168px;
+        background-image: url('../images/320/ios.png');
+        background-size: auto;
+    }
+    .slider-content_front {
+        width: 258px;
+        height: 460px;
+        background-image: url('../images/320/android.png');
+        background-size: auto;
+    }
+    .main__slider-pagination {
+        margin: -44px auto 0;
+        width: 208px;
+    }
+    .pagination_name {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .pagination_point {
+        border: 1px solid #757575;
+        height: 4px;
+        width: 4px;
+    }
+    .header__button-playmarket {
+        background-image: url('../images/320/play.svg');
+        background-color: unset;
+        background-size: 127px 100%;
+        margin-left: 32px;
+    }
+    .header__button-appstore {
+        background-image: url('../images/320/appStore.svg');
+        background-color: unset;
+        background-size: 127px 100%;
+        margin-left: 35px;
+    }
+    .opportunities__title {
+        margin-left: 36px;
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .opportunities__content {
+        margin-left: 36px;
+    }
+    .content-info__icon {
+        height: 45px;
+        width: 45px;
+    }
+    .content-info__text {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 0 0 0 35px;
+    }
+    .content_info__soon {
+        margin-left: -55px;
+        margin-top: -7px;
+    }
+    .text-soon {
+        width: 171px;
+    }
+    .indicators {
+        flex-wrap: wrap;
+        display: block;
+    }
+    .indicators__background-left {
+        display: none;
+    }
+    .indicators__background-right {
+        background-image: url('../images/320/spots.svg');
+        left: 0%;
+        top: -111px;
+        height: 763px;
+        width: 360px;
+        background-size: 100% 100%;
+        width: -webkit-fill-available;
+    }
+    .content__title {
+        margin: 41px 0 0 36px;
+        font-size: 22px;
+        line-height: 30px;
+        width: 288px;
+    }
+    .content__subtitle {
+        margin: 20px 0 0 36px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .content__subtitle li {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .slider__button {
+        display: none;
+    }
+    .indicators__slider {
+        margin-left: -145px;
+        left: 50%;
+        margin-top: 32px;
+        width: 290px;
+    }
+    .slider__content-mob {
+        width: 290px;
+        height: 306px;
+    }
+    .footer {
+        height: auto;
+    }
+    .footer__logo {
+        display: none;
+    }
+    .footer__about {
+        text-align: left;
+        margin: 10px 0 13px 36px;
+        font-size: 12px;
+        line-height: 16px;
+        padding: 0;
+    }
+    .content__subtitle-group1-2 {
+        flex-direction: column-reverse;
+        display: flex;
+    }
+    .content-info {
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+    .content-info__group1 {
+        flex-direction: column;
+    }
+    .content-info__group2 {
+        flex-direction: column;
+    }
+}

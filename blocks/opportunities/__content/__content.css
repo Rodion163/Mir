@@ -1,0 +1,37 @@
+.opportunities__content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 1px 0 0 209px;
+}
+
+.content-info {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    width: 346px;
+}
+.content-info__group1 {
+    flex-direction: row;
+    display: flex;
+}
+.content-info__group2 {
+    flex-direction: row;
+    display: flex;
+}
+
+.content-info__text {
+    margin: 7px 0 0 25px;
+    font-size: 18px;
+    line-height: 25px;
+    width: 210px;
+}
+.content_info__soon {
+    width: 53px;
+    height: 15px;
+    margin-left: -65px;
+    margin-top: 7px;
+}
+.text-soon {
+    width: 192px;
+}

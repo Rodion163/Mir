@@ -1,0 +1,8 @@
+@import url('./__logo/__logo.css');
+@import url('./__about/__about.css');
+.footer {
+    height: 98px;
+    background: #E9E9E9;
+    display: flex;
+    justify-content: space-between;
+}

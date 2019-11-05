@@ -1,0 +1,39 @@
+.indicators__slider {
+    position: relative;
+    margin: 185px 0 0 128px;
+}
+
+.slider__content-mob {}
+
+.slider__button {
+    width: 664px;
+    position: absolute;
+    top: 316px;
+    left: 72px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.slider__button-left {
+    width: 82px;
+    height: 82px;
+    border-radius: 100%;
+    background-image: url('../../../images/prevButton.svg');
+    border: none;
+    box-shadow: 0px 3px 9px rgba(0, 63, 73, 0.1), 0px 10px 25px rgba(186, 16, 12, 0.3);
+    background-position: 50% 50%;
+    background-color: #FF5252;
+    background-repeat: no-repeat;
+}
+
+.slider__button-right {
+    width: 82px;
+    height: 82px;
+    border-radius: 100%;
+    background-image: url('../../../images/nextButton.svg');
+    border: none;
+    background-position: 50% 50%;
+    background-color: #FF5252;
+    box-shadow: 0px 3px 9px rgba(0, 63, 73, 0.1), 0px 10px 25px rgba(186, 16, 12, 0.3);
+    background-repeat: no-repeat;
+}

@@ -1,0 +1,24 @@
+.header__button {
+    width: auto;
+    height: auto;
+    display: flex;
+    margin: 28px 0 0 758px;
+}
+
+.header__button-playmarket {
+    background-image: url('../../../images/Play\ Market.svg');
+    width: 162px;
+    border: none;
+    background-color: #F27758;
+    background-repeat: no-repeat;
+}
+
+.header__button-appstore {
+    background-image: url('../../../images/App\ Store.svg');
+    width: 132px;
+    border: none;
+    background-color: #F27758;
+    background-repeat: no-repeat;
+    margin-left: 28px;
+
+}

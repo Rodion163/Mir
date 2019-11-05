@@ -1,0 +1,7 @@
+@import url('./__content/__content.css');
+@import url('./__slider/__slider.css');
+@import url('./__background/__background.css');
+.indicators {
+    display: flex;
+    position: relative;
+}

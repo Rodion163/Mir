@@ -1,0 +1,62 @@
+.main__slider {
+    margin-top: -148px;
+    margin-right: 284px;
+}
+
+.main__slider-content {
+    display: flex;
+    align-items: center;
+}
+
+.slider-content {
+    margin-right: 284px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.slider-content_front {
+    width: 381px;
+    height: 698px;
+    background-image: url('../../../images/android-x2.png');
+    background-size: 100% 100%;
+}
+
+.slider-content_back {
+    width: 347px;
+    height: 596px;
+    margin-right: -145px;
+    background-image: url('../../../images/ios-x2.png');
+    background-size: 100% 100%;
+}
+
+.main__slider-pagination {
+    display: flex;
+    width: 297px;
+    justify-content: space-between;
+    margin-left: 153px;
+    margin-top: 15px;
+}
+
+.pagination_point {
+    border: 3px solid #757575;
+    height: 3px;
+    width: 3px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+.pagination_name {
+    font-size: 24px;
+    line-height: 33px;
+    text-align: center;
+    color: #757575;
+}
+
+.point-selected {
+    background-color: #757575;
+}
+
+.name-selected {
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+.header__logo {
+    margin: 17px 0 17px 198px;
+    width: 177px;
+    height: 66px;
+    display: flex;
+}
+.header__logo-icon {
+    background-image: url('../../../images/Logo.svg');
+    width: 66px;
+    height: 66px;
+    background-repeat: no-repeat;
+    padding-right: 17px;
+}
+
+.header__logo-name {
+    color: #FFFFFF;
+    margin-top: 12px;
+    font-weight: bold;
+    font-family: OpenSans-Bold;
+    width: 90px;
+    line-height: 20px;
+}

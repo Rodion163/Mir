@@ -1,0 +1,11 @@
+@import url('../main/__header/header.css');
+@import url('../main/__info/info.css');
+@import url('../main/__slider/slider.css');
+@import url('../main/__content/__content.css');
+.main {
+    background-image: url('../../images/background.png');
+    background-repeat: no-repeat;
+    background-position-y: center;
+    display: flex;
+    flex-direction: column;
+}

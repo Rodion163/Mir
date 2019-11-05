@@ -1,0 +1,227 @@
+@media (min-width: 768px) and (max-width: 1919px) {
+    .main {
+        height: auto;
+        background-position-y: 0%;
+        background-size: 100% 100%;
+    }
+    .header {
+        height: 50px;
+        justify-content: space-between;
+    }
+    .header__logo {
+        margin: 7px 0 0 99px;
+        width: 97px;
+    }
+    .header__logo-icon {
+        width: 37px;
+        height: 37px;
+        background-size: contain;
+        padding-right: 7px;
+    }
+    .header__logo-name {
+        margin: 0;
+        line-height: 1.15;
+        font-size: 12px;
+        width: 51px;
+        margin-top: 7px;
+    }
+    .header__button {
+        width: 178px;
+        margin: 14px 0 0 100px;
+    }
+    .header__mir-logo {
+        width: 120px;
+        height: 37px;
+        margin: 7px 0 0 23px;
+    }
+    .header__menu-button {
+        display: block;
+        margin-right: 99px;
+    }
+    .main__header {
+        margin: 30px auto 0;
+        width: 569px;
+    }
+    .main__header-title {
+        font-size: 24px;
+        line-height: 33px;
+        height: 90px;
+    }
+    .main__header-subtitle {
+        font-size: 16px;
+        line-height: 25px;
+        margin-top: 10px;
+        height: 75px;
+    }
+    .main__info {
+        margin: 14px 0 0 99px;
+        width: 270px;
+    }
+    .main__content {
+        flex-wrap: nowrap;
+    }
+    .content__info {
+        height: auto;
+        margin: 16px 0 0 0;
+    }
+    .content__info-icon {
+        width: 43px;
+        height: 43px;
+    }
+    .content__info-text {
+        font-size: 14px;
+        line-height: 19px;
+        margin: 0 0 0 36px;
+        width: 182px;
+    }
+    .main__slider {
+        margin: -41px auto 0;
+    }
+    .slider-content_back {
+        width: 281px;
+        height: 384px;
+        margin-right: -168px;
+        background-image: url('../images/320/ios.png');
+        background-size: auto;
+    }
+    .slider-content_front {
+        width: 258px;
+        height: 460px;
+        background-image: url('../images/320/android.png');
+        background-size: auto;
+    }
+    .main__slider-pagination {
+        margin: -44px auto 0;
+        width: 208px;
+    }
+    .pagination_name {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .pagination_point {
+        border: 1px solid #757575;
+        height: 4px;
+        width: 4px;
+    }
+    .header__button-playmarket {
+        background-size: contain;
+        width: 160px;
+        padding: 0;
+    }
+    .header__button-appstore {
+        background-size: contain;
+        width: 130px;
+        padding: 0;
+        margin-left: 4px;
+    }
+    .opportunities__title {
+        margin-left: 99px;
+        font-size: 28px;
+        line-height: 38px;
+    }
+    .opportunities__content {
+        margin-left: 99px;
+    }
+    .content-info {
+        margin: 30px 40px 0 0;
+        width: 251px;
+    }
+    .content-info__icon {
+        height: 43px;
+        width: 43px;
+    }
+    .content-info__text {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 0 0 0 20px;
+    }
+    .content_info__soon {
+        margin-left: -55px;
+        margin-top: -7px;
+    }
+    .text-soon {
+        width: 171px;
+    }
+    .indicators {
+        flex-wrap: wrap;
+        display: block;
+    }
+    .indicators__background-left {
+        display: none;
+    }
+    .indicators__background-right {
+        background-image: url('../images/768/spots768.svg');
+        left: 0%;
+        top: -13px;
+        height: 400px;
+        width: 360px;
+        background-position-x: right;
+        width: -webkit-fill-available;
+    }
+    .content__title {
+        margin: 60px 0 0 99px;
+        font-size: 28px;
+        line-height: 38px;
+        width: 420px;
+    }
+    .content__subtitle {
+        margin: 20px 0 0 99px;
+        display: flex;
+        flex-direction: row-reverse;
+        width: fit-content;
+    }
+    .content__subtitle li {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .slider__button {
+        width: 383px;
+        left: 97px;
+        top: 221px;
+    }
+    .slider__button-left {
+        width: 47px;
+        height: 48px;
+    }
+    .slider__button-right {
+        width: 47px;
+        height: 48px;
+    }
+    .indicators__slider {
+        margin-left: -284px;
+        left: 50%;
+        margin-top: 29px;
+        width: 569px;
+    }
+    .slider__content-mob {
+        width: 569px;
+        height: 511px;
+    }
+    .footer {
+        height: 71px;
+    }
+    .footer__logo {
+        margin: 17px 0 0 99px;
+        width: 119px;
+        height: 37px;
+    }
+    .footer__about {
+        margin: 10px 99px 0 0;
+        font-size: 12px;
+        line-height: 16px;
+        padding: 0;
+    }
+    .content__subtitle-group1-2 {
+        flex-direction: column-reverse;
+        display: flex;
+    }
+    .content__subtitle-group2 {
+        width: 265px;
+    }
+    .content-info__group1 {
+        flex-direction: column;
+    }
+    .content-info__group2 {
+        flex-direction: column;
+    }
+}

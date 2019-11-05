@@ -1,0 +1,6 @@
+@import url('./__content/__content.css');
+@import url('./__title/__title.css');
+.opportunities {
+    display: flex;
+    flex-direction: column;
+}
