@@ -13,6 +13,7 @@
     width: 444px;
     height: 924px;
     background-repeat: no-repeat;
-    left: 1476px;
+    background-position-x: right;
+    right: 0%;
     top: -173px;
 }
